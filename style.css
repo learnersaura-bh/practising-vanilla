@@ -1,0 +1,41 @@
+body{
+    margin: 0px;
+   
+}
+
+#txt-output{
+    padding :1rem;
+    width: 80%;
+    height : 10vh;
+    margin : 1rem;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 0.5rem;
+}
+
+#txt-input{
+    padding :1rem;
+    width: 80%;
+    height : 10vh;
+    margin : 1rem;
+    border-radius: 0.5rem;
+
+}
+
+#btn-translate{
+    padding: 0.5rem 0.5rem;
+
+}
+
+.header{
+    background-color: #a855f7 ;
+    padding: 1rem;
+    margin: auto;
+    text-align: center;
+}
+
+.container{
+ max-width: 600px;
+ margin: auto;
+ padding: 1rem 1rem;
+}
